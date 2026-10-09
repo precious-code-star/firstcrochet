@@ -1,0 +1,16 @@
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+.jina{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.jin{
+    margin-left: 20px;
+
+}
+.jina2{
+    margin-left: 10px;
+}
